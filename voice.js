@@ -1,2 +1,2 @@
 var audio = document.getElementById("audio1");
-  audio.volume = 0.07;
+  audio.volume = 0.05;

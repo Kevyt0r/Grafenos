@@ -235,7 +235,12 @@ footer span a:hover{
 .heading {
   text-align: center;
   font-size: 60px;
-  color: #FFB300;
+  color: #ffeb3b;
+}
+.heading span{
+  text-align: center;
+  font-size: 60px;
+  color: #00A4E4;
 }
 .profiles {
   display: flex;
@@ -246,7 +251,6 @@ footer span a:hover{
 .profile {
   flex-basis: 200px;
 }
-
 .profile .profile-img {
   border:.8rem solid var(--yellow);
   height: 200px;
